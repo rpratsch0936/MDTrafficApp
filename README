@@ -1,0 +1,3 @@
+Android Traffic application that provides reports on Maryland traffic data. 
+The app provides a login/logout feature and links to a database to produce reports. 
+Technology used: PHP, MySQL, JSON
